@@ -1,11 +1,11 @@
-.createPostPage{
+.createPostPage {
   display: flex;
   align-items: center;
   justify-content: center;
   height: 90vh;
 }
 
-.postContainer{
+.postContainer {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -36,18 +36,18 @@
   padding: 7px;
 }
 
-.postButton{
-  padding:  10px 0;
+.postButton {
+  padding: 10px 0;
   box-shadow: 5px 9px 15px -5px #777777;
   background: #3d77a5;
   border: none;
   color: #fff;
   border-radius: 5px;
   cursor: pointer;
-  transition: all .3s;
+  transition: all 0.3s;
 }
 
-.postButton:hover{
+.postButton:hover {
   transform: translateY(5px);
   box-shadow: none;
 }

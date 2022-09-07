@@ -7,13 +7,13 @@ nav {
   gap: 45px;
 }
 
-nav a{
+nav a {
   text-decoration: none;
   color: #fff;
-  transition: all .3s;
+  transition: all 0.3s;
 }
 
-nav a:hover{
+nav a:hover {
   color: rgb(0, 251, 255);
 }
 
